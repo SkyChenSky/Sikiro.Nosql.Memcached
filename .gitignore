@@ -3,3 +3,7 @@
 ################################################################################
 
 /Sikiro.Nosql.Memcached/obj
+/Sikiro.Nosql.Memcached/bin/Debug
+/Sikiro.Nosql.Memcached/.vs/Sikiro.Nosql.Memcached/v15
+/packages
+/.vs
